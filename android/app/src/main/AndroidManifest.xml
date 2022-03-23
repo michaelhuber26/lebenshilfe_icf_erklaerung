@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.lebenshilfe_icf_erklaerung">
    <application
-        android:label="lebenshilfe_icf_erklaerung"
+        android:label="ICF Erklärung"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
